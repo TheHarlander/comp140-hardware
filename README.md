@@ -35,3 +35,6 @@ Durability
 
 A controller should be able to last an all day usage test.
 
+http://www.rit.edu/gccis/gameeducationjournal/teaching-students-make-alternative-game-controllers
+
+
